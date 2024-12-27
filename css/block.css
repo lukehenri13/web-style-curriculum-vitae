@@ -1,0 +1,25 @@
+.block { 
+    width: 90%;
+    background-color: white;
+    padding: 20px;
+    margin: 5px auto;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .16), 0 2px 10px 0 rgba(0, 0, 0, .12);
+}
+
+.title-exp {
+    color: rgba(0, 0, 0, .87);
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.time-exp {
+    color: rgba(0,0,0,.54);
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.description {
+    font-size: 14px;
+    color: rgba(0, 0, 0, .87);
+    margin-top: 20px;
+}

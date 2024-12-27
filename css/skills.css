@@ -1,0 +1,35 @@
+.skill {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding-top: 4px;
+  width: 93%; 
+}
+
+.skill span {
+  margin-top: 10px  ;
+}
+
+.skill .progress {
+  height: 2px;
+  position: relative;
+  width: 90%;
+  border-radius: 2px;
+  overflow: visible;
+  background-color: hsla(0,0%,100%, .19);
+  margin: .5rem 0 10px;
+}
+
+.skill .progress .determinate {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+
+.skill .progress .determinate .fa {
+  font-size: 13px;
+  position: absolute;
+  top: -4px;
+  right: -2px;
+  margin-left: 50%;
+  color: #fff
+}
