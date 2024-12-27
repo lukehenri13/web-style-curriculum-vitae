@@ -12,7 +12,7 @@ As habilidades desenvolvidas neste desafio foram:
 * CSS Display
 
 ## Descrição
-Descrição
+
 A revista Exame recentemente constatou uma realidade no mercado de trabalho, informando que a ”demanda cresce por profissionais de TI durante a crise”. Na prática, mesmo com esse cenário de problemas econômicos, é possível ver que o aumento constante de tecnologia justifica em parte a existência desses profissionais para desenvolver e manter as soluções digitais.
 
 Para as empresas os benefícios do investimento nesses profissionais geralmente são revertidos rapidamente em aumento do faturamento e lucro.
